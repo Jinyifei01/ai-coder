@@ -1,6 +1,6 @@
 package com.example.yuaicoder.service;
 
-import com.example.yuaicoder.model.dto.UserQueryRequest;
+import com.example.yuaicoder.model.dto.user.UserQueryRequest;
 import com.example.yuaicoder.model.vo.LoginUserVO;
 import com.example.yuaicoder.model.vo.UserVO;
 import com.mybatisflex.core.query.QueryWrapper;
